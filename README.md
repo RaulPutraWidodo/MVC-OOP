@@ -30,7 +30,7 @@ https://youtu.be/UbAm56ecZV0
 # Tampilan Setelah Berhasil Menambah Nilai Mahasiswa
 ![img](dok/ss4.png)
 
-# Tampilan Setelah Menginput Nilai Mahasiswa
+# Tampilan Setelah Menambah Nilai Mahasiswa
 ![img](dok/ss5.png)
 
 # Tampilan Jika Ingin Menghapus Nilai Mahasiswa
